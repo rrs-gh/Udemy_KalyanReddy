@@ -1,2 +1,2 @@
-# Udemy_KalyanReddy
-Azure DevOps from Udemy Kalyan Reddy
+# Azure + Terraform Learning
+Let's Learns
