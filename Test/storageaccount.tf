@@ -2,7 +2,8 @@
 resource "random_string" "tfrs" {
   upper = false
   length = 10
-  special = false 
+  special = false
+  number = false 
 }
 
 resource "azurerm_storage_account" "tfsa" {
